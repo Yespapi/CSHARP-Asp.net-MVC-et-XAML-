@@ -1,0 +1,7 @@
+c:\users\jeremy mcpeak\documents\visual studio 2012\Projects\Lesson01\Lesson01\bin\Debug\Lesson01.exe.config
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01\bin\Debug\Lesson01.exe.config
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01\bin\Debug\Lesson01.exe
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01\bin\Debug\Lesson01.pdb
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01\obj\Debug\Lesson01.csprojResolveAssemblyReference.cache
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01\obj\Debug\Lesson01.exe
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01\obj\Debug\Lesson01.pdb

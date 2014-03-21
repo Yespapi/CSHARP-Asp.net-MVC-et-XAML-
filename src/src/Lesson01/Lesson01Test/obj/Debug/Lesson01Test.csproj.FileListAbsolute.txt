@@ -1,0 +1,7 @@
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01Test\bin\Debug\Lesson01Test.dll
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01Test\bin\Debug\Lesson01Test.pdb
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01Test\bin\Debug\Lesson01.exe
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01Test\bin\Debug\Lesson01.pdb
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01Test\obj\Debug\Lesson01Test.csprojResolveAssemblyReference.cache
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01Test\obj\Debug\Lesson01Test.dll
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\src\src\Lesson01\Lesson01Test\obj\Debug\Lesson01Test.pdb
